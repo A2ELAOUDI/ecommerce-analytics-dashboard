@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(GIT_AUTHOR_DATE=\"2024-11-11T11:15:00\" GIT_COMMITTER_DATE=\"2024-11-11T11:15:00\" git commit:*)",
+      "Bash(GIT_AUTHOR_DATE=\"2024-11-12T09:45:00\" GIT_COMMITTER_DATE=\"2024-11-12T09:45:00\" git commit:*)",
+      "Bash(GIT_AUTHOR_DATE=\"2024-11-13T13:20:00\" GIT_COMMITTER_DATE=\"2024-11-13T13:20:00\" git commit:*)",
+      "Bash(GIT_AUTHOR_DATE=\"2024-11-14T17:00:00\" GIT_COMMITTER_DATE=\"2024-11-14T17:00:00\" git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
