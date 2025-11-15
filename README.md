@@ -89,8 +89,8 @@ ecommerce-analytics/
 
 ### Étape 1 : Cloner le repository
 ```bash
-git clone https://github.com/votre-username/ecommerce-analytics.git
-cd ecommerce-analytics
+git clone https://github.com/A2ELAOUDI/ecommerce-analytics-dashboard.git
+cd ecommerce-analytics-dashboard
 ```
 
 ### Étape 2 : Installer les dépendances
@@ -128,7 +128,10 @@ Le dashboard affiche en temps réel :
 - Courbe temporelle : Évolution des ventes
 - Top produits : Classement des best-sellers
 
-*(Ajoutez des captures d'écran ici une fois le dashboard lancé)*
+![Dashboard Overview](assets/dashboard-overview.png)
+
+### Graphiques et Analyses
+![Dashboard Charts](assets/dashboard-charts.png)
 
 ---
 
@@ -186,19 +189,9 @@ Cela affichera un résumé des KPIs et analyses dans le terminal.
 - Documentation du code
 - Gestion de version (Git)
 
----
 
-## 🔮 Améliorations Futures
 
-- [ ] Ajouter des prédictions de ventes avec Machine Learning (ARIMA, Prophet)
-- [ ] Intégrer une vraie base de données (PostgreSQL)
-- [ ] Déployer sur le cloud (Streamlit Cloud / Heroku)
-- [ ] Ajouter des tests unitaires (pytest)
-- [ ] Créer des rapports PDF automatiques
-- [ ] Analyse de cohort pour la rétention clients
-- [ ] Détection d'anomalies dans les ventes
 
----
 
 ## 📝 Licence
 
@@ -207,18 +200,12 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 ---
 
 ## 👤 Auteur
-
-**Votre Nom**
-- GitHub: [@votre-username](https://github.com/votre-username)
-- LinkedIn: [Votre Profil](https://linkedin.com/in/votre-profil)
-- Email: votre.email@example.com
+Abderrahmane EL Aoudi
+- GitHub: https://github.com/A2ELAOUDI
+- LinkedIn: www.linkedin.com/in/abderrahmane-elaoudi
+- Email: abdouelaoudi8@gmail.com
 
 ---
-
-## 🙏 Remerciements
-
-- Données générées avec Python pour des besoins éducatifs
-- Inspiration : dashboards e-commerce réels (Shopify, Amazon Analytics)
 
 ---
 
@@ -230,4 +217,3 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 ---
 
-**⭐ Si ce projet vous plaît, n'hésitez pas à mettre une étoile !**
